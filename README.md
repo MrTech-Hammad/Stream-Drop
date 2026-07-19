@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30162434/README.md)
-
 # StreamDrop
 
 The final, polished software version of my YouTube Downloader — now installs seamlessly on Windows with zero setup required.
